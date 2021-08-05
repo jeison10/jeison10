@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeison Scremin</h1>
-<h3 align="center">An electrical enginner passionate for IT world</h3>
+<h3 align="center">An electrical engineer passionate for IT world</h3>
 
 - 🔭 I’m currently working on [Egg counter](https://github.com/jeison10/Egg-Counter-1.0)
 
