@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeison Scremin</h1>
 <h3 align="center">An electrical engineer passionate for IT world</h3>
 
-- 🔭 I’m currently working on [Egg counter](https://github.com/jeison10/Egg-Counter-1.0)
+- 🔭 I’m currently working on WebApp with MERN stack
 
-- 🌱 I’m currently learning **Python, javascript**
+- 🌱 I’m currently learning **HTMl, CSS, javascript, React and node.js**
 
-- 📫 How to reach me **jeison9@gmail.com**
+- 📫 How to reach me **jeison10@msn.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
